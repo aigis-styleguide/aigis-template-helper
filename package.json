@@ -1,0 +1,23 @@
+{
+  "name": "aigis-template-helper",
+  "version": "0.0.1",
+  "description": "Template helper function for aigis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxgrid/aigis-template-helper.git"
+  },
+  "author": "nakajmg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pxgrid/aigis-template-helper/issues"
+  },
+  "homepage": "https://github.com/pxgrid/aigis-template-helper#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "lodash": "^4.5.1"
+  }
+}
