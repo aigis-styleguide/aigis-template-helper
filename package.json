@@ -1,6 +1,6 @@
 {
   "name": "aigis-template-helper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Template helper function for aigis.",
   "main": "index.js",
   "scripts": {
